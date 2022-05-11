@@ -9,11 +9,11 @@ body{
   width: 512px;
   margin: 16px;
   padding: 16px;
-  color:aquamarine;
+  background-color:aquamarine;
 }
 
 .div2{
-  color:azure;
+  background-color:azure;
   box-sizing: border-box;
   height: 128px;
   width: 512px;
